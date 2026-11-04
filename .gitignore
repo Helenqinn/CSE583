@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+hw1/src/hw1_data_analysis/bicycle_data.csv
+.DS_Store
+.vscode/
